@@ -1,3 +1,4 @@
+// const domain = "https://staybooking-rww2ycxjgq-uw.a.run.app";
 const domain = "";
 
 export const login = (credential) => {
