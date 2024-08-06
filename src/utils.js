@@ -1,5 +1,5 @@
-// const domain = "https://staybooking-rww2ycxjgq-uw.a.run.app";
-const domain = "";
+const domain = "https://staybooking-rww2ycxjgq-uw.a.run.app";
+// const domain = "";
 
 export const login = (credential) => {
   const loginUrl = `${domain}/auth/login`;
